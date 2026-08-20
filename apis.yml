@@ -17,6 +17,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/putty.png
 tags:
   - Network Tools
+  - Open-Source
+  - Remote Access
+  - SSH
+  - Terminal
+tags_raw:
+  - Network Tools
   - Open Source
   - Remote Access
   - SSH
